@@ -7,7 +7,7 @@
 
   @for $i from 1 through 6 {
     h#{$i} {
-      font-weight: 400;
+      font-weight: 500;
       font-family: $global-serif-font-family;
 
       .anchor {
@@ -50,6 +50,10 @@
     &.fancybox {
       border: 0;
     }
+  }
+
+  p {
+    text-align: justify;
   }
 
   blockquote {

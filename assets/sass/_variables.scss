@@ -58,7 +58,7 @@ $global-lineheight: 1.5 !default;
 $global-font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif !default;
 
 // Serif font family of the site.
-$global-serif-font-family: Athelas, STHeiti, Microsoft Yahei, serif !default;
+$global-serif-font-family: 'Open Sans', Athelas, STHeiti, Microsoft Yahei, serif !default;
 
 // Background color of the site.
 $global-background: $white !default;
@@ -124,7 +124,7 @@ $post-border: 1px solid $light-gray !default;
 $post-title-font-size: 27px !default;
 
 // Font weight of post title.
-$post-title-font-weight: 400 !default;
+$post-title-font-weight: 500 !default;
 
 // Margin top of the post meta (post time).
 $post-meta-margin-top: 5px !default;
